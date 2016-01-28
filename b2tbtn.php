@@ -1,9 +1,9 @@
 <?php
 /**
- * Name: B2t - test
+ * Name: b2tbtn
  * Description: Show link to go back to the top of the page
  * Version: 1.0
- * Author: Davide Pesenti <mrjive@mrjive.eu> (stolen from Buglink @Mike McGirvin)
+ * Author: Davide Pesenti <mrjive@mrjive.eu> 
  * Maintainer: Davide Pesenti <mrjive@mrjive.eu>
  * MinVersion: 1.0
  */
