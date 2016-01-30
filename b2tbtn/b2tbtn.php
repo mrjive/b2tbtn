@@ -2,10 +2,10 @@
 /**
  * Name: b2tbtn
  * Description: Show link to go back to the top of the page
- * Version: 1.0
+ * Version: 0.2
  * Author: Davide Pesenti <mrjive@mrjive.eu> 
  * Maintainer: Davide Pesenti <mrjive@mrjive.eu>
- * MinVersion: 1.0
+ * MinVersion: 0.2
  */
 
 
